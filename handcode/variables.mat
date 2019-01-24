@@ -1,0 +1,15 @@
+a=40
+
+a =
+	40
+
+b= 30
+
+b = 
+	30
+	
+%To save this file do:
+%save variables.mat
+
+%if you need to use it later:
+%load variables.mat
