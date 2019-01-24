@@ -1,0 +1,9 @@
+clc   	=>	clears command window
+clear 	=>	removes variables from memory
+exist 	=>	checks for existence of file or variables
+global 	=>	declares variables to be global
+help	=>	searches for a help topic
+lookfor	=>	searches help entries for a keyword
+quit	=>	stops MATLAB
+who		=>	lists current variables
+whos	=>	list current variables(long display)
