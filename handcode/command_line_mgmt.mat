@@ -6,4 +6,4 @@ help	=>	searches for a help topic
 lookfor	=>	searches help entries for a keyword
 quit	=>	stops MATLAB
 who		=>	lists current variables
-whos	=>	list current variables(long display)
+whos	=>	list current variables(long display )
