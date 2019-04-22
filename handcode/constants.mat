@@ -6,7 +6,6 @@ i,j => the imaginary unit sqrt(- 1)
 Inf => infinity
 NaN => undefined numerical result (not a number)
 pi  => the number pi
-
 %To save this file do:
 %save constants.mat
 
