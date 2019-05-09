@@ -5,5 +5,5 @@ global 	=>	declares variables to be global
 help	=>	searches for a help topic
 lookfor	=>	searches help entries for a keyword
 quit	=>	stops MATLAB
-who		=>	lists current variables
+who		=>	lists current variable(s)
 whos	=>	list current variables(long display)
