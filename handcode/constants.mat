@@ -9,6 +9,6 @@ pi  => the number pi
 %To save this file do:
 %save constants.mat
 
-%if you need to use it later:
+%if you need to use it laters:
 %load constants.mat
 
