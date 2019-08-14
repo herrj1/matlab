@@ -1,5 +1,4 @@
 %Constants
-
 ans => most recent answer
 eps => accuracy of floating-point precision
 i,j => the imaginary unit sqrt(- 1)
