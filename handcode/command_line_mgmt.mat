@@ -4,6 +4,6 @@ exist 	=>	checks for existence of file or variables
 global 	=>	declares variables to be global
 help	=>	searches for a help topic
 lookfor	=>	searches help entries for a keyword
-quit	=>	stops MATLAB
+quit	=>	stops MATLABs
 who		=>	lists current variable(s)
 whos	=>	list current variables(long displays)
