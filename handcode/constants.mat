@@ -6,7 +6,7 @@ Inf => infinity
 NaN => undefined numerical result (not a number)
 pi  => the number pi
 %To save this file do:
-%save constants.mat
+%%save constants.mat
 
 %if you need to use it laters:
 %load constants.mat
