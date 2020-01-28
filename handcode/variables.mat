@@ -4,8 +4,7 @@ b= 30
 b = 30
 
 %To saves this file does:
-
-%save variables.mat
+%save variables.mat:
 
 %if you need to use it later:
 %load variables.mat
